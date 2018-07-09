@@ -1,0 +1,242 @@
+body {
+   width: 1500px;
+   margin: 0;
+   padding: 0;
+   color: #333;
+   font-size: 25px;
+}
+
+h1 img {
+    max-width: 100px;
+    height: auto;
+}
+
+.images1 a,.images a:visited {
+    color: #333;
+}
+.images1 a,.images a:hover {
+    color: #333;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.sec1image {
+   max-width: 100px;
+   height: auto;
+   font-size: 10px;
+   float: left;
+   margin-right: 30px;
+}
+
+.section2 {
+    margin:0 auto;
+    text-align: center;
+}
+
+.benebefore {
+    overflow: hidden;
+    margin:0 auto;
+}
+
+
+.benefit1 {
+    position:relative;
+    left: 15%;
+    float: left;
+   
+}
+.benefit2 {
+    position:relative;
+    left: 17.5%;
+    float: left;
+    margin: 0px 20px;
+}
+.benefit3 {
+    position:relative;
+    left: 20%;
+    float: left;
+}
+
+.benefits {
+    border: 1px solid;
+    border-radius: 20px;
+    width:22%
+}
+h2,p {
+    text-align: center;
+}
+
+
+.yaji {
+    margin: 15px 40px;
+    float: center;
+}
+.yajirushi {
+    position:relative;
+}
+
+.rpay {
+    position:absolute;
+    right:40%;
+    top:8%;
+    opacity: 0.6;
+}
+
+
+
+
+.when {
+   width: 21%;
+   background: #fff;
+   font-size: 20px;
+   padding:  22px;
+   border-radius: 15px;
+   border: 1px solid #956840;
+   float: left;
+   margin-right: 5px;
+   margin-left: 6px;
+   margin-top: 0;
+   margin-bottom: 0;
+   text-align: center;
+}
+
+.clearfix::after {
+   content:'';
+   display: block;
+   clear: both;
+}
+
+#shops {
+   width: 50%;
+   height: 50%;
+   float: right;
+}
+
+.rakutenpay {
+   width: 75px;
+   height: 75Spx;
+   border: solid 3px white;
+   border-radius: 10px;
+}
+
+.when1 {
+   font-size: 100px;
+   text-align: center;
+   background-color: red;
+   color: white;
+}
+
+#others {
+   display: block;
+   margin-top: 100px;
+   margin-left: 30px;
+   padding: 0;
+   text-decoration: underline red;
+   float: left;
+   text-align: center;
+}
+
+.section3 {
+   text-align: center;
+}
+
+#global_navi1 {
+   margin-left: 50px;
+   display: block;
+   padding: 10px 16px;
+   text-decoration: none;
+   border: 3px solid red;
+   border-radius: 15px;
+   width: 10%;
+   transition: background-color .2s linear;
+}
+
+.section2 {
+    overflow: hidden;
+}
+
+header {
+    background:#ffffff;
+    margin:0;
+}
+
+.logo {
+    font-size:14px;
+    border-bottom:solid 30px #dc143c;
+    margin:0;
+}
+
+#global_navi {
+    margin-bottom:16px;
+}
+
+#global_navi ul {
+    font-size:0;
+    list-style:none;
+    margin:0;
+    padding:0;
+}
+
+#global_navi ul li {
+    font-size:45px;
+    display: inline-block;
+    margin-right:20px;
+    margin-left:20px;
+    text-align:center;
+}
+
+#global_navi ul li a {
+    display:block;
+    padding:10px 20px;
+    background-color:#f0573e;
+    color:#fff;
+    text-decoration:none;
+    transition:background-color .2s linear;
+}
+
+#global_navi ul li a:hover {
+    background-color:#fa9786;
+}
+
+img {
+    width: 15%;
+    height: 15%;
+}
+
+
+.images li{
+    display: inline;
+    style-list: none;
+    radius:30px;
+}
+
+#fotter_pay{
+    text-align: center;
+}
+
+
+
+footer small {
+    display: inline-block;
+    padding: 10px 0;
+    color: red;
+}
+
+#qrcode figure{
+    font-size: 22px;
+    text-align: center;
+}
+
+.logo4 {
+    border-radius:22px;
+}
+
+#info{
+    text-align: right;
+}
+
+
+.rakutenlogo1 {
+    width:150%;
+    height:150%;
+}
